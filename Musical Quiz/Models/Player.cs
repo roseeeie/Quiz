@@ -7,5 +7,6 @@ namespace Musical_Quiz.Models
 {
     public class Player
     {
+            
     }
 }
